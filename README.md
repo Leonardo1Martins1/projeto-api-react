@@ -1,4 +1,4 @@
-# Projeto API + React c
+# Projeto API + React 
 
 Este projeto é uma aplicação full-stack com **Node.js + Express (backend)** e **React (frontend)**, incluindo:
  
